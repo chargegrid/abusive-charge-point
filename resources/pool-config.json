@@ -1,0 +1,13 @@
+{
+	"endpoint": "ws://localhost:8080/ws/5pVvHNXhpi0h06lcKqwGxi",
+	"charge-boxes": [
+		{
+			"serial": "AMP-0001",
+			"connectors": 3
+		},
+		{
+			"serial": "AMP-0003",
+			"connectors": 1
+		}
+	]
+}
